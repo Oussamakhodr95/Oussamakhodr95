@@ -20,10 +20,14 @@ I enjoy breaking things **ethically** and writing clean reports that help teams 
 
 --
 
+## 💻 Programming Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 
 ## 📫 Contact Me
-- 🌐 Website: [<my-website>](https://linktr.ee/Ousskr)
+- 🌐 Website: https://linktr.ee/Ousskr
 - 🐦 Twitter / X: ousskhoder95
-- 💼 LinkedIn: <your-link>
 - 📧 Email: oussamakhodr95@gmail.com
