@@ -1,16 +1,29 @@
-## Hi there 👋
+## Hi there I'm Oussama Khodr aka (Ousski)👋
 
-<!--
-**Oussamakhodr95/Oussamakhodr95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛡️ Penetration Tester | Ethical Hacker | Security Researcher
 
-Here are some ideas to get you started:
+I'm a **penetration tester** & **Bug hunter** focused on identifying, exploiting, and helping fix security vulnerabilities in web apps, networks, and cloud environments.  
+I enjoy breaking things **ethically** and writing clean reports that help teams secure their systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+--
+
+## 🔍 What I Do
+- Web Application Penetration Testing
+- Network & Infrastructure Security Testing
+- Vulnerability Assessment & Reporting
+
+--
+
+## 🧪 Labs & Platforms
+- Hack The Box
+- PortSwigger Web Security Academy
+
+--
+
+
+
+## 📫 Contact Me
+- 🌐 Website: [<my-website>](https://linktr.ee/Ousskr)
+- 🐦 Twitter / X: ousskhoder95
+- 💼 LinkedIn: <your-link>
+- 📧 Email: oussamakhodr95@gmail.com
