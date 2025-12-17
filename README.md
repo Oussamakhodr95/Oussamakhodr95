@@ -12,12 +12,12 @@ I enjoy breaking things **ethically** and writing clean reports that help teams 
 - Vulnerability Assessment & Reporting
 
 ## 🧪 Labs & Platforms
-<p align="left">
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/hackthebox.svg" width="45" height="45" alt="Hack The Box"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tryhackme.svg" width="45" height="45" alt="TryHackMe"/>
-</p>
+- HackTheBox https://app.hackthebox.com/public/users/1519463
+- PortSwigger Academy
+- HackerOne https://hackerone.com/ousski?type=user
 
 ## 💻 Programming Languages
+
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
