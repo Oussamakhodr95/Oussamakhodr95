@@ -5,26 +5,25 @@
 I'm a **penetration tester** & **Bug hunter** focused on identifying, exploiting, and helping fix security vulnerabilities in web apps, networks, and cloud environments.  
 I enjoy breaking things **ethically** and writing clean reports that help teams secure their systems.
 
---
 
 ## 🔍 What I Do
 - Web Application Penetration Testing
 - Network & Infrastructure Security Testing
 - Vulnerability Assessment & Reporting
 
---
-
 ## 🧪 Labs & Platforms
-- Hack The Box
-- PortSwigger Web Security Academy
-
---
+<p align="left">
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/hackthebox.svg" width="45" height="45" alt="Hack The Box"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tryhackme.svg" width="45" height="45" alt="TryHackMe"/>
+</p>
 
 ## 💻 Programming Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="45" height="45" alt="Bash"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="45" height="45" alt="Go"/>
+</p>
 
 
 ## 📫 Contact Me
