@@ -1,32 +1,57 @@
-## Hi there I'm Oussama Khodr aka (Ousski)👋
+# Hi, I'm Oussama 👋
 
-## 🛡️ Penetration Tester | Ethical Hacker | Security Researcher
+**Application Security · Penetration Tester · Bug Hunter** — based in Sweden 🇸🇪
 
-I'm a **penetration tester** & **Bug hunter** focused on identifying, exploiting, and helping fix security vulnerabilities in web apps, networks, and cloud environments.  
-I enjoy breaking things **ethically** and writing clean reports that help teams secure their systems.
+I come from offensive security: testing web applications and APIs through bug bounty
+programs on HackerOne and Intigriti and through freelance security assessments.
+After reporting the same kinds of vulnerabilities to many different companies, I became
+more interested in the other side — **helping development teams catch and prevent these
+flaws earlier**, inside the development lifecycle, instead of after release.
 
+---
 
-## 🔍 What I Do
-- Web Application Penetration Testing
-- Network & Infrastructure Security Testing
-- Vulnerability Assessment & Reporting
+### 🔐 Featured project
 
-## 🧪 Labs & Platforms
-- HackTheBox https://app.hackthebox.com/public/users/1519463
-- PortSwigger Academy
-- HackerOne https://hackerone.com/ousski?type=user
+**[VulnShop](https://github.com/Oussamakhodr95/vulnshop)** — a Flask app that started
+deliberately vulnerable and was secured through a CI/CD security pipeline.
 
-## 💻 Programming Languages
+- **SAST** with Semgrep, **DAST** with OWASP ZAP, **SCA** with pip-audit, all running in GitHub Actions on every push
+- Fixed SQL injection, IDOR, XSS, a hardcoded secret, plaintext passwords and vulnerable dependencies
+- Showed that a green pipeline isn't the same as a secure app: IDOR and XSS were only caught by manual testing
 
+---
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="45" height="45" alt="Bash"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="45" height="45" alt="Go"/>
-</p>
+### 🎯 What I focus on
 
+- Web application and API security testing
+- Access control, business logic and injection vulnerabilities
+- Integrating SAST, DAST and SCA into CI/CD pipelines
+- Clear reports with remediation guidance for developers
 
-## 📫 Contact Me
-- 🌐 Website: https://linktr.ee/Ousskr
-- 🐦 Twitter / X: ousskhoder95
-- 📧 Email: oussamakhodr95@gmail.com
+### 📜 Certifications
+
+- **HTB CPTS** — Certified Penetration Testing Specialist
+- **ISC2 CC** — Certified in Cybersecurity
+- **OSCP** — in progress, expected January 2027
+
+### 🛠️ Tools
+
+Burp Suite · OWASP ZAP · Semgrep · pip-audit · Docker · GitHub Actions · Nmap · ffuf · Metasploit · BloodHound · Impacket
+
+### 💻 Languages
+
+Python · Bash
+
+### 🧪 Where I practice
+
+Hack The Box · PortSwigger Web Security Academy · HackerOne
+
+---
+
+### 📫 Find me
+
+[LinkedIn](https://linkedin.com/in/ousski) ·
+[HackerOne](https://hackerone.com/ousski) ·
+[Hack The Box](https://app.hackthebox.com/public/users/1519463) ·
+[X](https://x.com/ousskhoder95) ·
+[Links](https://linktr.ee/Ousskr)
